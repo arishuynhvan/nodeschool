@@ -1,14 +1,17 @@
 {
-  "name": "@arishuynhvan/learn_npm",
-  "version": "1.0.0",
+  "name": "arishuynhvan",
+  "version": "1.0.2",
   "description": "for learning npm",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arishuynhvan/nodeschool/tree/master/learn_npm"
+  },
   "scripts": {
     "test": "node test.js"
   },
   "author": "Tu An",
   "license": "MIT",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
