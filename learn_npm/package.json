@@ -1,0 +1,14 @@
+{
+  "name": "@arishuynhvan/learn_npm",
+  "version": "1.0.0",
+  "description": "for learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tu An",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
